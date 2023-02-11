@@ -47,13 +47,15 @@ body{
     height: 40px;
     width: 100px;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1rem;
     border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 30%;
 }
 .carinc{
     font-size: 80%;
 }
+
 

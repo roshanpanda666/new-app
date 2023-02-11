@@ -16,7 +16,7 @@ function ExpenceItem(props) {
         <h2 className="carinc">{props.title}</h2>
         <div className="rs">
 
-          <div>rs.{props.amount}</div>
+          <div className="rsbtn">rs.{props.amount}</div>
 
         </div>
       </div>
