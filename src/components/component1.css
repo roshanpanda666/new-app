@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(39, 39, 39);
+}
+
+.helloroshan{
+    color: rgb(86, 86, 86);
+}
+.parrentt{
+    margin-top: 1%;
+    display: flex;
+    flex-direction: row;
+    color: rgb(253, 253, 253);
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 15px;
+    background-color: rgb(112, 112, 112);
+    height: 80px;
+    -webkit-box-shadow: 10px 10px 16px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 16px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 16px 0px rgba(0,0,0,0.75);
+    margin-bottom: 20px;
+}
+
+
+.letsgetstarted{
+    color: white;
+}
+.dt{
+    font-size: 1.3rem;
+    margin-right: 5%;
+    color: black;
+    font-weight: bold;
+    border: 1px solid red;
+}
+.parrent2{
+    display: flex;
+    justify-content: space-between;
+    width: 70vw;
+    align-items: center;
+}
+
+.rs{
+    border: 1px solid white;
+    background-color: rgb(70, 11, 104);
+    color: white;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carinc{
+    font-size: 80%;
+}
+
