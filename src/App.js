@@ -27,6 +27,9 @@ function App() {
     },
   ];
   return (
+  <div className="appparrent">
+
+    
     <div className="App">
       {/* <h1 className='helloroshan'>
         hello roshan
@@ -52,6 +55,7 @@ function App() {
           date={expenses[3].date}
         ></ExpenceItem>
     </div>
+  </div>
   );
 }
 

@@ -1,18 +1,35 @@
 body{
-    background-color: rgb(39, 39, 39);
+    background-color: rgb(92, 92, 92);
 }
+.appparrent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.App{
+    border: 1px solid rgb(255, 255, 255);
+    width: 370px;
+    border-radius: 10px;
+    margin-top: 10%;
+    background-color: rgb(31, 31, 31);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
 
+}
 .helloroshan{
     color: rgb(86, 86, 86);
 }
 .parrentt{
-    margin-top: 1%;
+    margin-top: 3%;
     display: flex;
     flex-direction: row;
     color: rgb(253, 253, 253);
     justify-content: center;
     align-items: center;
-    
+    width: 90%;
     border-radius: 15px;
     background-color: rgb(112, 112, 112);
     height: 80px;
@@ -26,13 +43,7 @@ body{
 .letsgetstarted{
     color: white;
 }
-.dt{
-    font-size: 1.3rem;
-    margin-right: 5%;
-    color: black;
-    font-weight: bold;
-    border: 1px solid red;
-}
+
 .parrent2{
     display: flex;
     justify-content: space-between;
